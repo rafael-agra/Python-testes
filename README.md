@@ -1,3 +1,7 @@
 # Python-Apagar-arquivos-testes
 
-Apenas um script rápido para apagar arquivos de uma determinada extensão de uma pasta de forma rápida e eficiente. No caso o código está atualmente configurado para apagar arquivos .json, podendo ser ajustado.
+Repositório de experimentos e testes rápidos em Python. Contém scripts independentes que demonstram pequenos conceitos como manipulação de strings, uso de listas/dicionários, compreensão de listas, exceções, leitura de arquivos e testes simples de performance.
+
+Licença 📜
+
+MIT License – consulte LICENSE para detalhes.
